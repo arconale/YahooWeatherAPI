@@ -14,8 +14,7 @@ composer install
 ```
 ## Configuration 
 
-We need to add Yahoo's Rest API credentiels in order to grant access to thiere API.
-for more details please see the link below 
+We need to add Yahoo's Rest API credentials in order to grant access to their API. for more details please see the link below
 https://developer.yahoo.com/weather/
 
 add those two variables to .env file 
@@ -26,7 +25,7 @@ CONSUMER_SECRET=xxxxxxxxxxxxx
 ```
 Change the CONSUMER_KEY value by the Client ID and the CONSUMER_SECRET value by Client Secret you get from the yahoo developer console 
 
-you can use my credentiels for test
+you can use my credentials for test
 
 ```text
 CONSUMER_KEY=dj0yJmk9RHdjbFlDTmxkM29nJmQ9WVdrOWJUQnZRMmR2TjJrbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTAy
