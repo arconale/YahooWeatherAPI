@@ -30,7 +30,7 @@ you can use my credentiels for test
 
 ```text
 CONSUMER_KEY=dj0yJmk9RHdjbFlDTmxkM29nJmQ9WVdrOWJUQnZRMmR2TjJrbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PTAy
- CONSUMER_SECRET=229808bf89acf958b91e32f8fe12b6915c3ce291
+CONSUMER_SECRET=229808bf89acf958b91e32f8fe12b6915c3ce291
 ```
 
 ## Run developement server
