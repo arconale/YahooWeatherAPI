@@ -13,7 +13,8 @@
         "symfony/yaml": "4.3.*"
     },
     "require-dev": {
-        "overblog/graphiql-bundle": "^0.1.2"
+        "overblog/graphiql-bundle": "^0.1.2",
+        "symfony/web-server-bundle": "4.3.*"
     },
     "config": {
         "preferred-install": {
