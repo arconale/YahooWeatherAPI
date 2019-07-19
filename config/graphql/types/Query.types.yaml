@@ -1,0 +1,12 @@
+Query:
+  type: object
+  config:
+    description: "Weather repository"
+    fields:
+      weather:
+        type: "Weather"
+        args:
+          location:
+            description: "Resolves using the location."
+            type: "String"
+        resolve: "@=resolver('Weather', [args])"

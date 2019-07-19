@@ -1,0 +1,23 @@
+Weather:
+  type: object
+  config:
+    description: "Weather Object"
+    fields:
+      city: 
+        type: "String!"
+        description: "Forecast's city name"
+      day:
+        type: "String"
+        description : "Forecast's day"
+      date:
+        type: "String"
+        description : "Forecast's date"
+      low:
+        type: "String"
+        description: "low temperature"
+      high:
+        type: "String"
+        description: "High temperature"
+      text:
+        type: "String"
+        description: "prediction text"
